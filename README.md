@@ -1,6 +1,6 @@
 ### Oii! Eu sou a Julia Matos✨
 
-- Estou estudando ADS na SPTECH
+
 <div>
   <a href="https://github.com/JuliaMatos09">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JuliaMatos09&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&border_radius=10"/>
