@@ -2,20 +2,9 @@
 Analista Funcional
 
 ---
-
-<div align="center">
-
-<img height="170em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=JuliaMatos09&show_icons=true&theme=dracula&include_all_commits=true&rank_icon=github&hide_border=true" />
-
-<img height="170em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=JuliaMatos09&layout=compact&langs_count=8&theme=dracula&hide_border=true" />
-
-</div>
-
----
-
 ### 🚀 Tecnologias que utilizo
 
-<div align="center">
+<div align="left">
 
 <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
