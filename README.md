@@ -1,5 +1,5 @@
 ### Oii! Eu sou a Julia Matos ✨  
-Desenvolvedora Jr | Backend & Frontend  
+Analista Funcional
 
 ---
 
@@ -29,16 +29,17 @@ Desenvolvedora Jr | Backend & Frontend
 
 ---
 
-### 💼 Atualmente trabalho com:
+### 💼 Conhecimento em:
 ✔ Salesforce Service Cloud & automações  
 ✔ Screen Flow & processos inteligentes  
 ✔ Integrações e lógica de negócio  
+✔ PowerCurve
 
 ---
 
 ### 📫 Vamos nos conectar
 
-<div align="center">
+<div align="left">
 
 <a href="https://www.linkedin.com/in/julia-matos-194894203/" target="_blank">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
