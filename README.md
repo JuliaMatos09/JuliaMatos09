@@ -4,10 +4,11 @@ Analista Funcional
 ---
 
 <div align="center">
-  <a href="https://github.com/JuliaMatos09">
-    <img height="170em" src="https://github-readme-stats.vercel.app/api?username=JuliaMatos09&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&border_radius=12"/>
-    <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JuliaMatos09&layout=compact&langs_count=7&theme=dracula&border_radius=12"/>
-  </a>
+
+<img height="170em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=JuliaMatos09&show_icons=true&theme=dracula&include_all_commits=true&rank_icon=github&hide_border=true" />
+
+<img height="170em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=JuliaMatos09&layout=compact&langs_count=8&theme=dracula&hide_border=true" />
+
 </div>
 
 ---
